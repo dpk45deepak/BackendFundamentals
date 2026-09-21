@@ -1,0 +1,1820 @@
+[
+  {
+    "id": "T001",
+    "category": "Core Backend Fundamentals",
+    "topic": "HTTP/HTTPS deeply",
+    "status": "pending"
+  },
+  {
+    "id": "T002",
+    "category": "Core Backend Fundamentals",
+    "topic": "TCP/IP basics",
+    "status": "pending"
+  },
+  {
+    "id": "T003",
+    "category": "Core Backend Fundamentals",
+    "topic": "DNS",
+    "status": "pending"
+  },
+  {
+    "id": "T004",
+    "category": "Core Backend Fundamentals",
+    "topic": "TLS/SSL",
+    "status": "pending"
+  },
+  {
+    "id": "T005",
+    "category": "Core Backend Fundamentals",
+    "topic": "HTTP/1.1 vs HTTP/2 vs HTTP/3",
+    "status": "pending"
+  },
+  {
+    "id": "T006",
+    "category": "Core Backend Fundamentals",
+    "topic": "REST API design",
+    "status": "pending"
+  },
+  {
+    "id": "T007",
+    "category": "Core Backend Fundamentals",
+    "topic": "RPC / gRPC",
+    "status": "pending"
+  },
+  {
+    "id": "T008",
+    "category": "Core Backend Fundamentals",
+    "topic": "WebSockets",
+    "status": "pending"
+  },
+  {
+    "id": "T009",
+    "category": "Core Backend Fundamentals",
+    "topic": "Server-Sent Events (SSE)",
+    "status": "pending"
+  },
+  {
+    "id": "T010",
+    "category": "Core Backend Fundamentals",
+    "topic": "Request/response lifecycle",
+    "status": "pending"
+  },
+  {
+    "id": "T011",
+    "category": "Core Backend Fundamentals",
+    "topic": "Cookies, sessions, tokens",
+    "status": "pending"
+  },
+  {
+    "id": "T012",
+    "category": "Core Backend Fundamentals",
+    "topic": "CORS",
+    "status": "pending"
+  },
+  {
+    "id": "T013",
+    "category": "Core Backend Fundamentals",
+    "topic": "Idempotency",
+    "status": "pending"
+  },
+  {
+    "id": "T014",
+    "category": "Core Backend Fundamentals",
+    "topic": "Stateless vs stateful services",
+    "status": "pending"
+  },
+  {
+    "id": "T015",
+    "category": "Core Backend Fundamentals",
+    "topic": "Serialization / deserialization",
+    "status": "pending"
+  },
+  {
+    "id": "T016",
+    "category": "Core Backend Fundamentals",
+    "topic": "API versioning",
+    "status": "pending"
+  },
+  {
+    "id": "T017",
+    "category": "Core Backend Fundamentals",
+    "topic": "Pagination",
+    "status": "pending"
+  },
+  {
+    "id": "T018",
+    "category": "Core Backend Fundamentals",
+    "topic": "Filtering / sorting",
+    "status": "pending"
+  },
+  {
+    "id": "T019",
+    "category": "Core Backend Fundamentals",
+    "topic": "Rate limiting",
+    "status": "pending"
+  },
+  {
+    "id": "T020",
+    "category": "Databases",
+    "topic": "PostgreSQL",
+    "status": "pending"
+  },
+  {
+    "id": "T021",
+    "category": "Databases",
+    "topic": "Database normalization",
+    "status": "pending"
+  },
+  {
+    "id": "T022",
+    "category": "Databases",
+    "topic": "Joins",
+    "status": "pending"
+  },
+  {
+    "id": "T023",
+    "category": "Databases",
+    "topic": "Indexes",
+    "status": "pending"
+  },
+  {
+    "id": "T024",
+    "category": "Databases",
+    "topic": "Composite indexes",
+    "status": "pending"
+  },
+  {
+    "id": "T025",
+    "category": "Databases",
+    "topic": "Query planning",
+    "status": "pending"
+  },
+  {
+    "id": "T026",
+    "category": "Databases",
+    "topic": "Transactions",
+    "status": "pending"
+  },
+  {
+    "id": "T027",
+    "category": "Databases",
+    "topic": "ACID",
+    "status": "pending"
+  },
+  {
+    "id": "T028",
+    "category": "Databases",
+    "topic": "Isolation levels",
+    "status": "pending"
+  },
+  {
+    "id": "T029",
+    "category": "Databases",
+    "topic": "Deadlocks",
+    "status": "pending"
+  },
+  {
+    "id": "T030",
+    "category": "Databases",
+    "topic": "Locks",
+    "status": "pending"
+  },
+  {
+    "id": "T031",
+    "category": "Databases",
+    "topic": "MVCC",
+    "status": "pending"
+  },
+  {
+    "id": "T032",
+    "category": "Databases",
+    "topic": "Constraints",
+    "status": "pending"
+  },
+  {
+    "id": "T033",
+    "category": "Databases",
+    "topic": "Foreign keys",
+    "status": "pending"
+  },
+  {
+    "id": "T034",
+    "category": "Databases",
+    "topic": "Views",
+    "status": "pending"
+  },
+  {
+    "id": "T035",
+    "category": "Databases",
+    "topic": "Materialized views",
+    "status": "pending"
+  },
+  {
+    "id": "T036",
+    "category": "Databases",
+    "topic": "Stored procedures",
+    "status": "pending"
+  },
+  {
+    "id": "T037",
+    "category": "Databases",
+    "topic": "Replication",
+    "status": "pending"
+  },
+  {
+    "id": "T038",
+    "category": "Databases",
+    "topic": "Read replicas",
+    "status": "pending"
+  },
+  {
+    "id": "T039",
+    "category": "Databases",
+    "topic": "Sharding",
+    "status": "pending"
+  },
+  {
+    "id": "T040",
+    "category": "Databases",
+    "topic": "MongoDB",
+    "status": "pending"
+  },
+  {
+    "id": "T041",
+    "category": "Databases",
+    "topic": "DynamoDB concepts",
+    "status": "pending"
+  },
+  {
+    "id": "T042",
+    "category": "Databases",
+    "topic": "Cassandra concepts",
+    "status": "pending"
+  },
+  {
+    "id": "T043",
+    "category": "Databases",
+    "topic": "Document modeling",
+    "status": "pending"
+  },
+  {
+    "id": "T044",
+    "category": "Databases",
+    "topic": "Embedding vs referencing",
+    "status": "pending"
+  },
+  {
+    "id": "T045",
+    "category": "Databases",
+    "topic": "Partition keys",
+    "status": "pending"
+  },
+  {
+    "id": "T046",
+    "category": "Databases",
+    "topic": "Consistency models",
+    "status": "pending"
+  },
+  {
+    "id": "T047",
+    "category": "Databases",
+    "topic": "Why a query can be slow even when an index exists",
+    "status": "pending"
+  },
+  {
+    "id": "T048",
+    "category": "Caching",
+    "topic": "Redis",
+    "status": "pending"
+  },
+  {
+    "id": "T049",
+    "category": "Caching",
+    "topic": "Cache-aside",
+    "status": "pending"
+  },
+  {
+    "id": "T050",
+    "category": "Caching",
+    "topic": "Write-through cache",
+    "status": "pending"
+  },
+  {
+    "id": "T051",
+    "category": "Caching",
+    "topic": "Write-back cache",
+    "status": "pending"
+  },
+  {
+    "id": "T052",
+    "category": "Caching",
+    "topic": "Read-through cache",
+    "status": "pending"
+  },
+  {
+    "id": "T053",
+    "category": "Caching",
+    "topic": "TTL",
+    "status": "pending"
+  },
+  {
+    "id": "T054",
+    "category": "Caching",
+    "topic": "Cache invalidation",
+    "status": "pending"
+  },
+  {
+    "id": "T055",
+    "category": "Caching",
+    "topic": "Cache stampede",
+    "status": "pending"
+  },
+  {
+    "id": "T056",
+    "category": "Caching",
+    "topic": "Cache penetration",
+    "status": "pending"
+  },
+  {
+    "id": "T057",
+    "category": "Caching",
+    "topic": "Cache avalanche",
+    "status": "pending"
+  },
+  {
+    "id": "T058",
+    "category": "Caching",
+    "topic": "Distributed caching",
+    "status": "pending"
+  },
+  {
+    "id": "T059",
+    "category": "Caching",
+    "topic": "LRU/LFU",
+    "status": "pending"
+  },
+  {
+    "id": "T060",
+    "category": "Caching",
+    "topic": "Redis Cluster",
+    "status": "pending"
+  },
+  {
+    "id": "T061",
+    "category": "Messaging & Event-Driven Architecture",
+    "topic": "Pub/Sub",
+    "status": "pending"
+  },
+  {
+    "id": "T062",
+    "category": "Messaging & Event-Driven Architecture",
+    "topic": "Message queues",
+    "status": "pending"
+  },
+  {
+    "id": "T063",
+    "category": "Messaging & Event-Driven Architecture",
+    "topic": "RabbitMQ",
+    "status": "pending"
+  },
+  {
+    "id": "T064",
+    "category": "Messaging & Event-Driven Architecture",
+    "topic": "Kafka",
+    "status": "pending"
+  },
+  {
+    "id": "T065",
+    "category": "Messaging & Event-Driven Architecture",
+    "topic": "Redis Streams",
+    "status": "pending"
+  },
+  {
+    "id": "T066",
+    "category": "Messaging & Event-Driven Architecture",
+    "topic": "Consumer groups",
+    "status": "pending"
+  },
+  {
+    "id": "T067",
+    "category": "Messaging & Event-Driven Architecture",
+    "topic": "Message acknowledgment",
+    "status": "pending"
+  },
+  {
+    "id": "T068",
+    "category": "Messaging & Event-Driven Architecture",
+    "topic": "Retry mechanisms",
+    "status": "pending"
+  },
+  {
+    "id": "T069",
+    "category": "Messaging & Event-Driven Architecture",
+    "topic": "Dead-letter queues",
+    "status": "pending"
+  },
+  {
+    "id": "T070",
+    "category": "Messaging & Event-Driven Architecture",
+    "topic": "Event-driven architecture",
+    "status": "pending"
+  },
+  {
+    "id": "T071",
+    "category": "Messaging & Event-Driven Architecture",
+    "topic": "Event sourcing",
+    "status": "pending"
+  },
+  {
+    "id": "T072",
+    "category": "Messaging & Event-Driven Architecture",
+    "topic": "CQRS",
+    "status": "pending"
+  },
+  {
+    "id": "T073",
+    "category": "Messaging & Event-Driven Architecture",
+    "topic": "At-least-once delivery",
+    "status": "pending"
+  },
+  {
+    "id": "T074",
+    "category": "Messaging & Event-Driven Architecture",
+    "topic": "At-most-once delivery",
+    "status": "pending"
+  },
+  {
+    "id": "T075",
+    "category": "Messaging & Event-Driven Architecture",
+    "topic": "Exactly-once semantics",
+    "status": "pending"
+  },
+  {
+    "id": "T076",
+    "category": "Messaging & Event-Driven Architecture",
+    "topic": "Ordering",
+    "status": "pending"
+  },
+  {
+    "id": "T077",
+    "category": "Messaging & Event-Driven Architecture",
+    "topic": "Backpressure",
+    "status": "pending"
+  },
+  {
+    "id": "T078",
+    "category": "System Design",
+    "topic": "Scalability",
+    "status": "pending"
+  },
+  {
+    "id": "T079",
+    "category": "System Design",
+    "topic": "Availability",
+    "status": "pending"
+  },
+  {
+    "id": "T080",
+    "category": "System Design",
+    "topic": "Reliability",
+    "status": "pending"
+  },
+  {
+    "id": "T081",
+    "category": "System Design",
+    "topic": "Fault tolerance",
+    "status": "pending"
+  },
+  {
+    "id": "T082",
+    "category": "System Design",
+    "topic": "Horizontal scaling",
+    "status": "pending"
+  },
+  {
+    "id": "T083",
+    "category": "System Design",
+    "topic": "Vertical scaling",
+    "status": "pending"
+  },
+  {
+    "id": "T084",
+    "category": "System Design",
+    "topic": "Load balancing",
+    "status": "pending"
+  },
+  {
+    "id": "T085",
+    "category": "System Design",
+    "topic": "Reverse proxies",
+    "status": "pending"
+  },
+  {
+    "id": "T086",
+    "category": "System Design",
+    "topic": "API gateways",
+    "status": "pending"
+  },
+  {
+    "id": "T087",
+    "category": "System Design",
+    "topic": "Service discovery",
+    "status": "pending"
+  },
+  {
+    "id": "T088",
+    "category": "System Design",
+    "topic": "Health checks",
+    "status": "pending"
+  },
+  {
+    "id": "T089",
+    "category": "System Design",
+    "topic": "Failover",
+    "status": "pending"
+  },
+  {
+    "id": "T090",
+    "category": "System Design",
+    "topic": "Replication",
+    "status": "pending"
+  },
+  {
+    "id": "T091",
+    "category": "System Design",
+    "topic": "Partitioning",
+    "status": "pending"
+  },
+  {
+    "id": "T092",
+    "category": "System Design",
+    "topic": "Sharding",
+    "status": "pending"
+  },
+  {
+    "id": "T093",
+    "category": "System Design",
+    "topic": "CAP theorem",
+    "status": "pending"
+  },
+  {
+    "id": "T094",
+    "category": "System Design",
+    "topic": "PACELC",
+    "status": "pending"
+  },
+  {
+    "id": "T095",
+    "category": "System Design",
+    "topic": "Consistency vs availability",
+    "status": "pending"
+  },
+  {
+    "id": "T096",
+    "category": "System Design",
+    "topic": "Distributed systems",
+    "status": "pending"
+  },
+  {
+    "id": "T097",
+    "category": "System Design",
+    "topic": "High-level design of WhatsApp",
+    "status": "pending"
+  },
+  {
+    "id": "T098",
+    "category": "System Design",
+    "topic": "High-level design of YouTube",
+    "status": "pending"
+  },
+  {
+    "id": "T099",
+    "category": "System Design",
+    "topic": "High-level design of Netflix",
+    "status": "pending"
+  },
+  {
+    "id": "T100",
+    "category": "System Design",
+    "topic": "High-level design of Uber",
+    "status": "pending"
+  },
+  {
+    "id": "T101",
+    "category": "System Design",
+    "topic": "High-level design of Instagram",
+    "status": "pending"
+  },
+  {
+    "id": "T102",
+    "category": "System Design",
+    "topic": "High-level design of Amazon",
+    "status": "pending"
+  },
+  {
+    "id": "T103",
+    "category": "Distributed Systems",
+    "topic": "Distributed consensus",
+    "status": "pending"
+  },
+  {
+    "id": "T104",
+    "category": "Distributed Systems",
+    "topic": "Leader election",
+    "status": "pending"
+  },
+  {
+    "id": "T105",
+    "category": "Distributed Systems",
+    "topic": "Distributed locks",
+    "status": "pending"
+  },
+  {
+    "id": "T106",
+    "category": "Distributed Systems",
+    "topic": "Distributed transactions",
+    "status": "pending"
+  },
+  {
+    "id": "T107",
+    "category": "Distributed Systems",
+    "topic": "Two-phase commit",
+    "status": "pending"
+  },
+  {
+    "id": "T108",
+    "category": "Distributed Systems",
+    "topic": "Saga pattern",
+    "status": "pending"
+  },
+  {
+    "id": "T109",
+    "category": "Distributed Systems",
+    "topic": "Eventual consistency",
+    "status": "pending"
+  },
+  {
+    "id": "T110",
+    "category": "Distributed Systems",
+    "topic": "Strong consistency",
+    "status": "pending"
+  },
+  {
+    "id": "T111",
+    "category": "Distributed Systems",
+    "topic": "Vector clocks",
+    "status": "pending"
+  },
+  {
+    "id": "T112",
+    "category": "Distributed Systems",
+    "topic": "Logical clocks",
+    "status": "pending"
+  },
+  {
+    "id": "T113",
+    "category": "Distributed Systems",
+    "topic": "Network partitions",
+    "status": "pending"
+  },
+  {
+    "id": "T114",
+    "category": "Distributed Systems",
+    "topic": "Split brain",
+    "status": "pending"
+  },
+  {
+    "id": "T115",
+    "category": "Distributed Systems",
+    "topic": "Clock synchronization",
+    "status": "pending"
+  },
+  {
+    "id": "T116",
+    "category": "Distributed Systems",
+    "topic": "Gossip protocols",
+    "status": "pending"
+  },
+  {
+    "id": "T117",
+    "category": "Distributed Systems",
+    "topic": "Quorum",
+    "status": "pending"
+  },
+  {
+    "id": "T118",
+    "category": "Distributed Systems",
+    "topic": "Replication strategies",
+    "status": "pending"
+  },
+  {
+    "id": "T119",
+    "category": "Backend Security",
+    "topic": "OAuth 2.0",
+    "status": "pending"
+  },
+  {
+    "id": "T120",
+    "category": "Backend Security",
+    "topic": "OpenID Connect",
+    "status": "pending"
+  },
+  {
+    "id": "T121",
+    "category": "Backend Security",
+    "topic": "JWT",
+    "status": "pending"
+  },
+  {
+    "id": "T122",
+    "category": "Backend Security",
+    "topic": "Session authentication",
+    "status": "pending"
+  },
+  {
+    "id": "T123",
+    "category": "Backend Security",
+    "topic": "RBAC",
+    "status": "pending"
+  },
+  {
+    "id": "T124",
+    "category": "Backend Security",
+    "topic": "ABAC",
+    "status": "pending"
+  },
+  {
+    "id": "T125",
+    "category": "Backend Security",
+    "topic": "API keys",
+    "status": "pending"
+  },
+  {
+    "id": "T126",
+    "category": "Backend Security",
+    "topic": "Password hashing",
+    "status": "pending"
+  },
+  {
+    "id": "T127",
+    "category": "Backend Security",
+    "topic": "Argon2 / bcrypt",
+    "status": "pending"
+  },
+  {
+    "id": "T128",
+    "category": "Backend Security",
+    "topic": "CSRF",
+    "status": "pending"
+  },
+  {
+    "id": "T129",
+    "category": "Backend Security",
+    "topic": "XSS",
+    "status": "pending"
+  },
+  {
+    "id": "T130",
+    "category": "Backend Security",
+    "topic": "SQL injection",
+    "status": "pending"
+  },
+  {
+    "id": "T131",
+    "category": "Backend Security",
+    "topic": "NoSQL injection",
+    "status": "pending"
+  },
+  {
+    "id": "T132",
+    "category": "Backend Security",
+    "topic": "SSRF",
+    "status": "pending"
+  },
+  {
+    "id": "T133",
+    "category": "Backend Security",
+    "topic": "CORS security",
+    "status": "pending"
+  },
+  {
+    "id": "T134",
+    "category": "Backend Security",
+    "topic": "Clickjacking",
+    "status": "pending"
+  },
+  {
+    "id": "T135",
+    "category": "Backend Security",
+    "topic": "Request validation",
+    "status": "pending"
+  },
+  {
+    "id": "T136",
+    "category": "Backend Security",
+    "topic": "Input sanitization",
+    "status": "pending"
+  },
+  {
+    "id": "T137",
+    "category": "Backend Security",
+    "topic": "Secrets management",
+    "status": "pending"
+  },
+  {
+    "id": "T138",
+    "category": "Backend Security",
+    "topic": "Encryption at rest",
+    "status": "pending"
+  },
+  {
+    "id": "T139",
+    "category": "Backend Security",
+    "topic": "Encryption in transit",
+    "status": "pending"
+  },
+  {
+    "id": "T140",
+    "category": "Backend Security",
+    "topic": "Key rotation",
+    "status": "pending"
+  },
+  {
+    "id": "T141",
+    "category": "Backend Security",
+    "topic": "Security headers",
+    "status": "pending"
+  },
+  {
+    "id": "T142",
+    "category": "Backend Security",
+    "topic": "OWASP Top 10",
+    "status": "pending"
+  },
+  {
+    "id": "T143",
+    "category": "Backend Security",
+    "topic": "Authentication vs Authorization",
+    "status": "pending"
+  },
+  {
+    "id": "T144",
+    "category": "Reliability Engineering",
+    "topic": "Timeouts",
+    "status": "pending"
+  },
+  {
+    "id": "T145",
+    "category": "Reliability Engineering",
+    "topic": "Retries",
+    "status": "pending"
+  },
+  {
+    "id": "T146",
+    "category": "Reliability Engineering",
+    "topic": "Exponential backoff",
+    "status": "pending"
+  },
+  {
+    "id": "T147",
+    "category": "Reliability Engineering",
+    "topic": "Jitter",
+    "status": "pending"
+  },
+  {
+    "id": "T148",
+    "category": "Reliability Engineering",
+    "topic": "Circuit breakers",
+    "status": "pending"
+  },
+  {
+    "id": "T149",
+    "category": "Reliability Engineering",
+    "topic": "Bulkheads",
+    "status": "pending"
+  },
+  {
+    "id": "T150",
+    "category": "Reliability Engineering",
+    "topic": "Graceful degradation",
+    "status": "pending"
+  },
+  {
+    "id": "T151",
+    "category": "Reliability Engineering",
+    "topic": "Failover",
+    "status": "pending"
+  },
+  {
+    "id": "T152",
+    "category": "Reliability Engineering",
+    "topic": "Health checks",
+    "status": "pending"
+  },
+  {
+    "id": "T153",
+    "category": "Reliability Engineering",
+    "topic": "Liveness probes",
+    "status": "pending"
+  },
+  {
+    "id": "T154",
+    "category": "Reliability Engineering",
+    "topic": "Readiness probes",
+    "status": "pending"
+  },
+  {
+    "id": "T155",
+    "category": "Reliability Engineering",
+    "topic": "Error budgets",
+    "status": "pending"
+  },
+  {
+    "id": "T156",
+    "category": "Reliability Engineering",
+    "topic": "SLO",
+    "status": "pending"
+  },
+  {
+    "id": "T157",
+    "category": "Reliability Engineering",
+    "topic": "SLA",
+    "status": "pending"
+  },
+  {
+    "id": "T158",
+    "category": "Reliability Engineering",
+    "topic": "SLI",
+    "status": "pending"
+  },
+  {
+    "id": "T159",
+    "category": "Observability",
+    "topic": "Structured logging",
+    "status": "pending"
+  },
+  {
+    "id": "T160",
+    "category": "Observability",
+    "topic": "Log levels",
+    "status": "pending"
+  },
+  {
+    "id": "T161",
+    "category": "Observability",
+    "topic": "Correlation IDs",
+    "status": "pending"
+  },
+  {
+    "id": "T162",
+    "category": "Observability",
+    "topic": "Centralized logging",
+    "status": "pending"
+  },
+  {
+    "id": "T163",
+    "category": "Observability",
+    "topic": "CPU metrics",
+    "status": "pending"
+  },
+  {
+    "id": "T164",
+    "category": "Observability",
+    "topic": "Memory metrics",
+    "status": "pending"
+  },
+  {
+    "id": "T165",
+    "category": "Observability",
+    "topic": "Request latency",
+    "status": "pending"
+  },
+  {
+    "id": "T166",
+    "category": "Observability",
+    "topic": "Error rate",
+    "status": "pending"
+  },
+  {
+    "id": "T167",
+    "category": "Observability",
+    "topic": "Throughput",
+    "status": "pending"
+  },
+  {
+    "id": "T168",
+    "category": "Observability",
+    "topic": "Queue depth",
+    "status": "pending"
+  },
+  {
+    "id": "T169",
+    "category": "Observability",
+    "topic": "Distributed tracing",
+    "status": "pending"
+  },
+  {
+    "id": "T170",
+    "category": "Observability",
+    "topic": "Trace IDs",
+    "status": "pending"
+  },
+  {
+    "id": "T171",
+    "category": "Observability",
+    "topic": "Span IDs",
+    "status": "pending"
+  },
+  {
+    "id": "T172",
+    "category": "Observability",
+    "topic": "OpenTelemetry",
+    "status": "pending"
+  },
+  {
+    "id": "T173",
+    "category": "Observability",
+    "topic": "Prometheus",
+    "status": "pending"
+  },
+  {
+    "id": "T174",
+    "category": "Observability",
+    "topic": "Grafana",
+    "status": "pending"
+  },
+  {
+    "id": "T175",
+    "category": "Observability",
+    "topic": "Jaeger",
+    "status": "pending"
+  },
+  {
+    "id": "T176",
+    "category": "Observability",
+    "topic": "ELK / OpenSearch",
+    "status": "pending"
+  },
+  {
+    "id": "T177",
+    "category": "Observability",
+    "topic": "Tracing one request across multiple services",
+    "status": "pending"
+  },
+  {
+    "id": "T178",
+    "category": "DevOps / Infrastructure",
+    "topic": "Linux",
+    "status": "pending"
+  },
+  {
+    "id": "T179",
+    "category": "DevOps / Infrastructure",
+    "topic": "Processes",
+    "status": "pending"
+  },
+  {
+    "id": "T180",
+    "category": "DevOps / Infrastructure",
+    "topic": "Threads",
+    "status": "pending"
+  },
+  {
+    "id": "T181",
+    "category": "DevOps / Infrastructure",
+    "topic": "Signals",
+    "status": "pending"
+  },
+  {
+    "id": "T182",
+    "category": "DevOps / Infrastructure",
+    "topic": "File descriptors",
+    "status": "pending"
+  },
+  {
+    "id": "T183",
+    "category": "DevOps / Infrastructure",
+    "topic": "Environment variables",
+    "status": "pending"
+  },
+  {
+    "id": "T184",
+    "category": "DevOps / Infrastructure",
+    "topic": "Docker",
+    "status": "pending"
+  },
+  {
+    "id": "T185",
+    "category": "DevOps / Infrastructure",
+    "topic": "Docker Compose",
+    "status": "pending"
+  },
+  {
+    "id": "T186",
+    "category": "DevOps / Infrastructure",
+    "topic": "Kubernetes basics",
+    "status": "pending"
+  },
+  {
+    "id": "T187",
+    "category": "DevOps / Infrastructure",
+    "topic": "CI/CD",
+    "status": "pending"
+  },
+  {
+    "id": "T188",
+    "category": "DevOps / Infrastructure",
+    "topic": "Reverse proxy",
+    "status": "pending"
+  },
+  {
+    "id": "T189",
+    "category": "DevOps / Infrastructure",
+    "topic": "Nginx",
+    "status": "pending"
+  },
+  {
+    "id": "T190",
+    "category": "DevOps / Infrastructure",
+    "topic": "Cloud networking",
+    "status": "pending"
+  },
+  {
+    "id": "T191",
+    "category": "DevOps / Infrastructure",
+    "topic": "DNS",
+    "status": "pending"
+  },
+  {
+    "id": "T192",
+    "category": "DevOps / Infrastructure",
+    "topic": "Load balancers",
+    "status": "pending"
+  },
+  {
+    "id": "T193",
+    "category": "DevOps / Infrastructure",
+    "topic": "CDN",
+    "status": "pending"
+  },
+  {
+    "id": "T194",
+    "category": "DevOps / Infrastructure",
+    "topic": "Object storage",
+    "status": "pending"
+  },
+  {
+    "id": "T195",
+    "category": "DevOps / Infrastructure",
+    "topic": "Containers",
+    "status": "pending"
+  },
+  {
+    "id": "T196",
+    "category": "DevOps / Infrastructure",
+    "topic": "Infrastructure as Code",
+    "status": "pending"
+  },
+  {
+    "id": "T197",
+    "category": "DevOps / Infrastructure",
+    "topic": "Terraform basics",
+    "status": "pending"
+  },
+  {
+    "id": "T198",
+    "category": "Cloud Backend",
+    "topic": "AWS EC2",
+    "status": "pending"
+  },
+  {
+    "id": "T199",
+    "category": "Cloud Backend",
+    "topic": "AWS S3",
+    "status": "pending"
+  },
+  {
+    "id": "T200",
+    "category": "Cloud Backend",
+    "topic": "AWS RDS",
+    "status": "pending"
+  },
+  {
+    "id": "T201",
+    "category": "Cloud Backend",
+    "topic": "AWS VPC",
+    "status": "pending"
+  },
+  {
+    "id": "T202",
+    "category": "Cloud Backend",
+    "topic": "AWS IAM",
+    "status": "pending"
+  },
+  {
+    "id": "T203",
+    "category": "Cloud Backend",
+    "topic": "AWS CloudFront",
+    "status": "pending"
+  },
+  {
+    "id": "T204",
+    "category": "Cloud Backend",
+    "topic": "AWS Route 53",
+    "status": "pending"
+  },
+  {
+    "id": "T205",
+    "category": "Cloud Backend",
+    "topic": "AWS SQS",
+    "status": "pending"
+  },
+  {
+    "id": "T206",
+    "category": "Cloud Backend",
+    "topic": "AWS SNS",
+    "status": "pending"
+  },
+  {
+    "id": "T207",
+    "category": "Cloud Backend",
+    "topic": "AWS Lambda",
+    "status": "pending"
+  },
+  {
+    "id": "T208",
+    "category": "Cloud Backend",
+    "topic": "AWS ECS",
+    "status": "pending"
+  },
+  {
+    "id": "T209",
+    "category": "Cloud Backend",
+    "topic": "AWS EKS",
+    "status": "pending"
+  },
+  {
+    "id": "T210",
+    "category": "Cloud Backend",
+    "topic": "AWS CloudWatch",
+    "status": "pending"
+  },
+  {
+    "id": "T211",
+    "category": "Cloud Backend",
+    "topic": "AWS Secrets Manager",
+    "status": "pending"
+  },
+  {
+    "id": "T212",
+    "category": "Cloud Backend",
+    "topic": "Choosing the right AWS service for a backend requirement",
+    "status": "pending"
+  },
+  {
+    "id": "T213",
+    "category": "Performance Engineering",
+    "topic": "Profiling",
+    "status": "pending"
+  },
+  {
+    "id": "T214",
+    "category": "Performance Engineering",
+    "topic": "CPU profiling",
+    "status": "pending"
+  },
+  {
+    "id": "T215",
+    "category": "Performance Engineering",
+    "topic": "Memory profiling",
+    "status": "pending"
+  },
+  {
+    "id": "T216",
+    "category": "Performance Engineering",
+    "topic": "Garbage collection",
+    "status": "pending"
+  },
+  {
+    "id": "T217",
+    "category": "Performance Engineering",
+    "topic": "Memory leaks",
+    "status": "pending"
+  },
+  {
+    "id": "T218",
+    "category": "Performance Engineering",
+    "topic": "Connection pooling",
+    "status": "pending"
+  },
+  {
+    "id": "T219",
+    "category": "Performance Engineering",
+    "topic": "Database connection limits",
+    "status": "pending"
+  },
+  {
+    "id": "T220",
+    "category": "Performance Engineering",
+    "topic": "Query optimization",
+    "status": "pending"
+  },
+  {
+    "id": "T221",
+    "category": "Performance Engineering",
+    "topic": "N+1 problem",
+    "status": "pending"
+  },
+  {
+    "id": "T222",
+    "category": "Performance Engineering",
+    "topic": "Batch processing",
+    "status": "pending"
+  },
+  {
+    "id": "T223",
+    "category": "Performance Engineering",
+    "topic": "Async processing",
+    "status": "pending"
+  },
+  {
+    "id": "T224",
+    "category": "Performance Engineering",
+    "topic": "Worker pools",
+    "status": "pending"
+  },
+  {
+    "id": "T225",
+    "category": "Performance Engineering",
+    "topic": "Event loops",
+    "status": "pending"
+  },
+  {
+    "id": "T226",
+    "category": "Performance Engineering",
+    "topic": "Concurrency",
+    "status": "pending"
+  },
+  {
+    "id": "T227",
+    "category": "Performance Engineering",
+    "topic": "Parallelism",
+    "status": "pending"
+  },
+  {
+    "id": "T228",
+    "category": "Performance Engineering",
+    "topic": "Load testing",
+    "status": "pending"
+  },
+  {
+    "id": "T229",
+    "category": "Performance Engineering",
+    "topic": "Stress testing",
+    "status": "pending"
+  },
+  {
+    "id": "T230",
+    "category": "Performance Engineering",
+    "topic": "Benchmarking",
+    "status": "pending"
+  },
+  {
+    "id": "T231",
+    "category": "Performance Engineering",
+    "topic": "k6",
+    "status": "pending"
+  },
+  {
+    "id": "T232",
+    "category": "Performance Engineering",
+    "topic": "Apache JMeter",
+    "status": "pending"
+  },
+  {
+    "id": "T233",
+    "category": "Performance Engineering",
+    "topic": "wrk",
+    "status": "pending"
+  },
+  {
+    "id": "T234",
+    "category": "Performance Engineering",
+    "topic": "autocannon",
+    "status": "pending"
+  },
+  {
+    "id": "T235",
+    "category": "Performance Engineering",
+    "topic": "Clinic.js",
+    "status": "pending"
+  },
+  {
+    "id": "T236",
+    "category": "Architecture Patterns",
+    "topic": "Layered architecture",
+    "status": "pending"
+  },
+  {
+    "id": "T237",
+    "category": "Architecture Patterns",
+    "topic": "Clean Architecture",
+    "status": "pending"
+  },
+  {
+    "id": "T238",
+    "category": "Architecture Patterns",
+    "topic": "Hexagonal Architecture",
+    "status": "pending"
+  },
+  {
+    "id": "T239",
+    "category": "Architecture Patterns",
+    "topic": "Onion Architecture",
+    "status": "pending"
+  },
+  {
+    "id": "T240",
+    "category": "Architecture Patterns",
+    "topic": "Modular monolith",
+    "status": "pending"
+  },
+  {
+    "id": "T241",
+    "category": "Architecture Patterns",
+    "topic": "Microservices",
+    "status": "pending"
+  },
+  {
+    "id": "T242",
+    "category": "Architecture Patterns",
+    "topic": "Event-driven architecture",
+    "status": "pending"
+  },
+  {
+    "id": "T243",
+    "category": "Architecture Patterns",
+    "topic": "CQRS",
+    "status": "pending"
+  },
+  {
+    "id": "T244",
+    "category": "Architecture Patterns",
+    "topic": "Event sourcing",
+    "status": "pending"
+  },
+  {
+    "id": "T245",
+    "category": "Architecture Patterns",
+    "topic": "Saga",
+    "status": "pending"
+  },
+  {
+    "id": "T246",
+    "category": "Architecture Patterns",
+    "topic": "Repository pattern",
+    "status": "pending"
+  },
+  {
+    "id": "T247",
+    "category": "Architecture Patterns",
+    "topic": "Dependency injection",
+    "status": "pending"
+  },
+  {
+    "id": "T248",
+    "category": "Architecture Patterns",
+    "topic": "Strategy pattern",
+    "status": "pending"
+  },
+  {
+    "id": "T249",
+    "category": "Architecture Patterns",
+    "topic": "Factory pattern",
+    "status": "pending"
+  },
+  {
+    "id": "T250",
+    "category": "Architecture Patterns",
+    "topic": "When not to use microservices",
+    "status": "pending"
+  },
+  {
+    "id": "T251",
+    "category": "API Architecture",
+    "topic": "REST",
+    "status": "pending"
+  },
+  {
+    "id": "T252",
+    "category": "API Architecture",
+    "topic": "GraphQL",
+    "status": "pending"
+  },
+  {
+    "id": "T253",
+    "category": "API Architecture",
+    "topic": "gRPC",
+    "status": "pending"
+  },
+  {
+    "id": "T254",
+    "category": "API Architecture",
+    "topic": "WebSockets",
+    "status": "pending"
+  },
+  {
+    "id": "T255",
+    "category": "API Architecture",
+    "topic": "SSE",
+    "status": "pending"
+  },
+  {
+    "id": "T256",
+    "category": "API Architecture",
+    "topic": "Webhooks",
+    "status": "pending"
+  },
+  {
+    "id": "T257",
+    "category": "API Architecture",
+    "topic": "API Gateway",
+    "status": "pending"
+  },
+  {
+    "id": "T258",
+    "category": "API Architecture",
+    "topic": "BFF pattern",
+    "status": "pending"
+  },
+  {
+    "id": "T259",
+    "category": "API Architecture",
+    "topic": "API composition",
+    "status": "pending"
+  },
+  {
+    "id": "T260",
+    "category": "API Architecture",
+    "topic": "Contract testing",
+    "status": "pending"
+  },
+  {
+    "id": "T261",
+    "category": "API Architecture",
+    "topic": "OpenAPI",
+    "status": "pending"
+  },
+  {
+    "id": "T262",
+    "category": "API Architecture",
+    "topic": "Schema validation",
+    "status": "pending"
+  },
+  {
+    "id": "T263",
+    "category": "Testing",
+    "topic": "Unit testing",
+    "status": "pending"
+  },
+  {
+    "id": "T264",
+    "category": "Testing",
+    "topic": "Integration testing",
+    "status": "pending"
+  },
+  {
+    "id": "T265",
+    "category": "Testing",
+    "topic": "E2E testing",
+    "status": "pending"
+  },
+  {
+    "id": "T266",
+    "category": "Testing",
+    "topic": "Contract testing",
+    "status": "pending"
+  },
+  {
+    "id": "T267",
+    "category": "Testing",
+    "topic": "API testing",
+    "status": "pending"
+  },
+  {
+    "id": "T268",
+    "category": "Testing",
+    "topic": "Load testing",
+    "status": "pending"
+  },
+  {
+    "id": "T269",
+    "category": "Testing",
+    "topic": "Stress testing",
+    "status": "pending"
+  },
+  {
+    "id": "T270",
+    "category": "Testing",
+    "topic": "Chaos testing",
+    "status": "pending"
+  },
+  {
+    "id": "T271",
+    "category": "Testing",
+    "topic": "Testcontainers",
+    "status": "pending"
+  },
+  {
+    "id": "T272",
+    "category": "Testing",
+    "topic": "Mocking",
+    "status": "pending"
+  },
+  {
+    "id": "T273",
+    "category": "Testing",
+    "topic": "Fixtures",
+    "status": "pending"
+  },
+  {
+    "id": "T274",
+    "category": "Testing",
+    "topic": "Test databases",
+    "status": "pending"
+  },
+  {
+    "id": "T275",
+    "category": "Testing",
+    "topic": "Testing pyramid",
+    "status": "pending"
+  },
+  {
+    "id": "T276",
+    "category": "Data Engineering Concepts",
+    "topic": "ETL",
+    "status": "pending"
+  },
+  {
+    "id": "T277",
+    "category": "Data Engineering Concepts",
+    "topic": "ELT",
+    "status": "pending"
+  },
+  {
+    "id": "T278",
+    "category": "Data Engineering Concepts",
+    "topic": "Data pipelines",
+    "status": "pending"
+  },
+  {
+    "id": "T279",
+    "category": "Data Engineering Concepts",
+    "topic": "Batch processing",
+    "status": "pending"
+  },
+  {
+    "id": "T280",
+    "category": "Data Engineering Concepts",
+    "topic": "Stream processing",
+    "status": "pending"
+  },
+  {
+    "id": "T281",
+    "category": "Data Engineering Concepts",
+    "topic": "Kafka",
+    "status": "pending"
+  },
+  {
+    "id": "T282",
+    "category": "Data Engineering Concepts",
+    "topic": "Data warehouses",
+    "status": "pending"
+  },
+  {
+    "id": "T283",
+    "category": "Data Engineering Concepts",
+    "topic": "Data lakes",
+    "status": "pending"
+  },
+  {
+    "id": "T284",
+    "category": "Data Engineering Concepts",
+    "topic": "CDC (Change Data Capture)",
+    "status": "pending"
+  },
+  {
+    "id": "T285",
+    "category": "Data Engineering Concepts",
+    "topic": "Debezium",
+    "status": "pending"
+  },
+  {
+    "id": "T286",
+    "category": "Data Engineering Concepts",
+    "topic": "Apache Spark",
+    "status": "pending"
+  },
+  {
+    "id": "T287",
+    "category": "Data Engineering Concepts",
+    "topic": "Apache Flink",
+    "status": "pending"
+  },
+  {
+    "id": "T288",
+    "category": "Data Engineering Concepts",
+    "topic": "Data partitioning",
+    "status": "pending"
+  },
+  {
+    "id": "T289",
+    "category": "Data Engineering Concepts",
+    "topic": "PostgreSQL \u2192 CDC \u2192 Kafka \u2192 Spark/Flink \u2192 Data Warehouse",
+    "status": "pending"
+  },
+  {
+    "id": "T290",
+    "category": "AI Backend",
+    "topic": "Model serving",
+    "status": "pending"
+  },
+  {
+    "id": "T291",
+    "category": "AI Backend",
+    "topic": "Async inference",
+    "status": "pending"
+  },
+  {
+    "id": "T292",
+    "category": "AI Backend",
+    "topic": "Streaming responses",
+    "status": "pending"
+  },
+  {
+    "id": "T293",
+    "category": "AI Backend",
+    "topic": "Token streaming",
+    "status": "pending"
+  },
+  {
+    "id": "T294",
+    "category": "AI Backend",
+    "topic": "RAG architecture",
+    "status": "pending"
+  },
+  {
+    "id": "T295",
+    "category": "AI Backend",
+    "topic": "Vector databases",
+    "status": "pending"
+  },
+  {
+    "id": "T296",
+    "category": "AI Backend",
+    "topic": "Embeddings",
+    "status": "pending"
+  },
+  {
+    "id": "T297",
+    "category": "AI Backend",
+    "topic": "LLM gateways",
+    "status": "pending"
+  },
+  {
+    "id": "T298",
+    "category": "AI Backend",
+    "topic": "Model routing",
+    "status": "pending"
+  },
+  {
+    "id": "T299",
+    "category": "AI Backend",
+    "topic": "AI observability",
+    "status": "pending"
+  },
+  {
+    "id": "T300",
+    "category": "AI Backend",
+    "topic": "Prompt/version management",
+    "status": "pending"
+  },
+  {
+    "id": "T301",
+    "category": "AI Backend",
+    "topic": "Rate limiting for AI APIs",
+    "status": "pending"
+  },
+  {
+    "id": "T302",
+    "category": "AI Backend",
+    "topic": "GPU inference basics",
+    "status": "pending"
+  },
+  {
+    "id": "T303",
+    "category": "AI Backend",
+    "topic": "Background inference jobs",
+    "status": "pending"
+  }
+]
