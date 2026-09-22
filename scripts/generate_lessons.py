@@ -10,8 +10,10 @@ from __future__ import annotations
 
 import json
 import os
+import random
 import re
 import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -24,7 +26,7 @@ PROGRESS_FILE = ROOT / "data" / "progress.json"
 DOCS_DIR = ROOT / "docs"
 
 API_KEY = os.environ.get("GEMINI_API_KEY")
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
+MODEL = os.environ.get("GEMINI_MODEL") or "gemini-3.6-flash"
 LESSONS_PER_RUN = 2
 
 if not API_KEY:
@@ -131,7 +133,7 @@ Quality rules:
 
 def call_gemini(prompt: str) -> str:
     url = (
-        f"https://generativelanguage.googleapis.com/v1beta/models/"
+        "https://generativelanguage.googleapis.com/v1beta/models/"
         f"{MODEL}:generateContent?key={API_KEY}"
     )
     payload = {
@@ -142,22 +144,68 @@ def call_gemini(prompt: str) -> str:
             "maxOutputTokens": 7000,
         },
     }
-    response = requests.post(
-        url,
-        json=payload,
-        timeout=120,
-        headers={"Content-Type": "application/json"},
-    )
-    if not response.ok:
-        raise RuntimeError(
-            f"Gemini API failed ({response.status_code}): {response.text[:1000]}"
-        )
 
-    data = response.json()
-    try:
-        return data["candidates"][0]["content"]["parts"][0]["text"].strip()
-    except (KeyError, IndexError, TypeError) as exc:
-        raise RuntimeError(f"Unexpected Gemini response: {json.dumps(data)[:1500]}") from exc
+    retryable_statuses = {429, 500, 502, 503, 504}
+    max_attempts = 5
+
+    for attempt in range(1, max_attempts + 1):
+        try:
+            response = requests.post(
+                url,
+                json=payload,
+                timeout=120,
+                headers={"Content-Type": "application/json"},
+            )
+        except requests.RequestException as exc:
+            if attempt == max_attempts:
+                raise RuntimeError(
+                    f"Gemini request failed after {max_attempts} attempts: {exc}"
+                ) from exc
+
+            delay = min(60, 2 ** (attempt - 1)) + random.uniform(0, 1)
+            print(
+                f"Gemini request error; retrying in {delay:.1f}s "
+                f"(attempt {attempt}/{max_attempts})",
+                file=sys.stderr,
+            )
+            time.sleep(delay)
+            continue
+
+        if response.ok:
+            data = response.json()
+            try:
+                return data["candidates"][0]["content"]["parts"][0]["text"].strip()
+            except (KeyError, IndexError, TypeError) as exc:
+                raise RuntimeError(
+                    f"Unexpected Gemini response: {json.dumps(data)[:1500]}"
+                ) from exc
+
+        if response.status_code not in retryable_statuses:
+            raise RuntimeError(
+                f"Gemini API failed ({response.status_code}): {response.text[:1000]}"
+            )
+
+        if attempt == max_attempts:
+            raise RuntimeError(
+                f"Gemini API failed after {max_attempts} attempts "
+                f"({response.status_code}): {response.text[:1000]}"
+            )
+
+        retry_after = response.headers.get("Retry-After")
+        try:
+            delay = float(retry_after) if retry_after else 2 ** (attempt - 1)
+        except ValueError:
+            delay = 2 ** (attempt - 1)
+
+        delay = min(60, delay) + random.uniform(0, 1)
+        print(
+            f"Gemini returned HTTP {response.status_code}; retrying in {delay:.1f}s "
+            f"(attempt {attempt}/{max_attempts})",
+            file=sys.stderr,
+        )
+        time.sleep(delay)
+
+    raise RuntimeError("Gemini request failed unexpectedly")
 
 
 def main() -> None:
