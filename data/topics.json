@@ -3,13 +3,13 @@
     "id": "T001",
     "category": "Core Backend Fundamentals",
     "topic": "HTTP/HTTPS deeply",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T002",
     "category": "Core Backend Fundamentals",
     "topic": "TCP/IP basics",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T003",
@@ -1730,7 +1730,7 @@
   {
     "id": "T289",
     "category": "Data Engineering Concepts",
-    "topic": "PostgreSQL \u2192 CDC \u2192 Kafka \u2192 Spark/Flink \u2192 Data Warehouse",
+    "topic": "PostgreSQL → CDC → Kafka → Spark/Flink → Data Warehouse",
     "status": "pending"
   },
   {

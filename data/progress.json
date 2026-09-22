@@ -1,6 +1,9 @@
 {
-  "completed_topic_ids": [],
-  "last_run_utc": null,
-  "runs": 0,
+  "completed_topic_ids": [
+    "T001",
+    "T002"
+  ],
+  "last_run_utc": "2026-09-22T01:35:49.538501+00:00",
+  "runs": 1,
   "completed": false
 }
