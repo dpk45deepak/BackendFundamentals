@@ -51,13 +51,13 @@
     "id": "T009",
     "category": "Core Backend Fundamentals",
     "topic": "Server-Sent Events (SSE)",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T010",
     "category": "Core Backend Fundamentals",
     "topic": "Request/response lifecycle",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T011",
