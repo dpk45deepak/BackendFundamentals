@@ -39,13 +39,13 @@
     "id": "T007",
     "category": "Core Backend Fundamentals",
     "topic": "RPC / gRPC",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T008",
     "category": "Core Backend Fundamentals",
     "topic": "WebSockets",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T009",
