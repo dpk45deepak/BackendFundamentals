@@ -27,13 +27,13 @@
     "id": "T005",
     "category": "Core Backend Fundamentals",
     "topic": "HTTP/1.1 vs HTTP/2 vs HTTP/3",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T006",
     "category": "Core Backend Fundamentals",
     "topic": "REST API design",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T007",
