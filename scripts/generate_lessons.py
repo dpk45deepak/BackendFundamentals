@@ -26,7 +26,7 @@ PROGRESS_FILE = ROOT / "data" / "progress.json"
 DOCS_DIR = ROOT / "docs"
 
 API_KEY = os.environ.get("GEMINI_API_KEY")
-MODEL = os.environ.get("GEMINI_MODEL") or "gemini-3.6-flash"
+MODEL = os.environ.get("GEMINI_MODEL") or "gemini-3.5-flash-lite"
 LESSONS_PER_RUN = 2
 
 if not API_KEY:
