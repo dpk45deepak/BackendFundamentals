@@ -63,13 +63,13 @@
     "id": "T011",
     "category": "Core Backend Fundamentals",
     "topic": "Cookies, sessions, tokens",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T012",
     "category": "Core Backend Fundamentals",
     "topic": "CORS",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T013",
