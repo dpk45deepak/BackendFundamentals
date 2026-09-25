@@ -1,6 +1,8 @@
 # 🛡️ Senior Backend Engineering — AI Daily Learning Workflow
 
 An automated GitHub repository that teaches the complete senior-backend roadmap using the Gemini API.
+Check out [GitHub](https://github.com/dpk45deepak/BackendFundamentals/tree/main/docs) for hosting code repositories.
+
 
 ## What it does ✅
 
