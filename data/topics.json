@@ -75,13 +75,13 @@
     "id": "T013",
     "category": "Core Backend Fundamentals",
     "topic": "Idempotency",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T014",
     "category": "Core Backend Fundamentals",
     "topic": "Stateless vs stateful services",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T015",
