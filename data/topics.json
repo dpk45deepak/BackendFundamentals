@@ -111,13 +111,13 @@
     "id": "T019",
     "category": "Core Backend Fundamentals",
     "topic": "Rate limiting",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T020",
     "category": "Databases",
     "topic": "PostgreSQL",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T021",
