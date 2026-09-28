@@ -159,13 +159,13 @@
     "id": "T027",
     "category": "Databases",
     "topic": "ACID",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T028",
     "category": "Databases",
     "topic": "Isolation levels",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T029",
