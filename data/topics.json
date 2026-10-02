@@ -243,13 +243,13 @@
     "id": "T041",
     "category": "Databases",
     "topic": "DynamoDB concepts",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T042",
     "category": "Databases",
     "topic": "Cassandra concepts",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T043",
