@@ -279,13 +279,13 @@
     "id": "T047",
     "category": "Databases",
     "topic": "Why a query can be slow even when an index exists",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T048",
     "category": "Caching",
     "topic": "Redis",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T049",
