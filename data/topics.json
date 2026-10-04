@@ -303,13 +303,13 @@
     "id": "T051",
     "category": "Caching",
     "topic": "Write-back cache",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T052",
     "category": "Caching",
     "topic": "Read-through cache",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T053",
