@@ -291,13 +291,13 @@
     "id": "T049",
     "category": "Caching",
     "topic": "Cache-aside",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T050",
     "category": "Caching",
     "topic": "Write-through cache",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T051",
