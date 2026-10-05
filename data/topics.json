@@ -315,13 +315,13 @@
     "id": "T053",
     "category": "Caching",
     "topic": "TTL",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T054",
     "category": "Caching",
     "topic": "Cache invalidation",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T055",
