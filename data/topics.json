@@ -327,13 +327,13 @@
     "id": "T055",
     "category": "Caching",
     "topic": "Cache stampede",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T056",
     "category": "Caching",
     "topic": "Cache penetration",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T057",
