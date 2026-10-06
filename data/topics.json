@@ -351,13 +351,13 @@
     "id": "T059",
     "category": "Caching",
     "topic": "LRU/LFU",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T060",
     "category": "Caching",
     "topic": "Redis Cluster",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T061",
