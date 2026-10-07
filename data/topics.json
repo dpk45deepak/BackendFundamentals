@@ -375,13 +375,13 @@
     "id": "T063",
     "category": "Messaging & Event-Driven Architecture",
     "topic": "RabbitMQ",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T064",
     "category": "Messaging & Event-Driven Architecture",
     "topic": "Kafka",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T065",
