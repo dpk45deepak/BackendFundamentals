@@ -363,13 +363,13 @@
     "id": "T061",
     "category": "Messaging & Event-Driven Architecture",
     "topic": "Pub/Sub",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T062",
     "category": "Messaging & Event-Driven Architecture",
     "topic": "Message queues",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T063",
