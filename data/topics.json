@@ -399,13 +399,13 @@
     "id": "T067",
     "category": "Messaging & Event-Driven Architecture",
     "topic": "Message acknowledgment",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T068",
     "category": "Messaging & Event-Driven Architecture",
     "topic": "Retry mechanisms",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T069",
