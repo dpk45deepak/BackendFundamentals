@@ -387,13 +387,13 @@
     "id": "T065",
     "category": "Messaging & Event-Driven Architecture",
     "topic": "Redis Streams",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T066",
     "category": "Messaging & Event-Driven Architecture",
     "topic": "Consumer groups",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T067",
