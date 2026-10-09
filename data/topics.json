@@ -411,13 +411,13 @@
     "id": "T069",
     "category": "Messaging & Event-Driven Architecture",
     "topic": "Dead-letter queues",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T070",
     "category": "Messaging & Event-Driven Architecture",
     "topic": "Event-driven architecture",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T071",
