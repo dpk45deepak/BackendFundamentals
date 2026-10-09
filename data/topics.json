@@ -423,13 +423,13 @@
     "id": "T071",
     "category": "Messaging & Event-Driven Architecture",
     "topic": "Event sourcing",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T072",
     "category": "Messaging & Event-Driven Architecture",
     "topic": "CQRS",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T073",
