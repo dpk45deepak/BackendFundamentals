@@ -435,13 +435,13 @@
     "id": "T073",
     "category": "Messaging & Event-Driven Architecture",
     "topic": "At-least-once delivery",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T074",
     "category": "Messaging & Event-Driven Architecture",
     "topic": "At-most-once delivery",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T075",
