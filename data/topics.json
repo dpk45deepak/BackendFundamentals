@@ -447,13 +447,13 @@
     "id": "T075",
     "category": "Messaging & Event-Driven Architecture",
     "topic": "Exactly-once semantics",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T076",
     "category": "Messaging & Event-Driven Architecture",
     "topic": "Ordering",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T077",
