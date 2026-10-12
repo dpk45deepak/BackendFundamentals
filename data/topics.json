@@ -483,13 +483,13 @@
     "id": "T081",
     "category": "System Design",
     "topic": "Fault tolerance",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T082",
     "category": "System Design",
     "topic": "Horizontal scaling",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T083",
