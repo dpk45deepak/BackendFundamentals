@@ -615,13 +615,13 @@
     "id": "T103",
     "category": "Distributed Systems",
     "topic": "Distributed consensus",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T104",
     "category": "Distributed Systems",
     "topic": "Leader election",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T105",
