@@ -639,13 +639,13 @@
     "id": "T107",
     "category": "Distributed Systems",
     "topic": "Two-phase commit",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T108",
     "category": "Distributed Systems",
     "topic": "Saga pattern",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T109",
