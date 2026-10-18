@@ -627,13 +627,13 @@
     "id": "T105",
     "category": "Distributed Systems",
     "topic": "Distributed locks",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T106",
     "category": "Distributed Systems",
     "topic": "Distributed transactions",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T107",
