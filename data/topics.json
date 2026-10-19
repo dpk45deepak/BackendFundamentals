@@ -663,13 +663,13 @@
     "id": "T111",
     "category": "Distributed Systems",
     "topic": "Vector clocks",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T112",
     "category": "Distributed Systems",
     "topic": "Logical clocks",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T113",
