@@ -651,13 +651,13 @@
     "id": "T109",
     "category": "Distributed Systems",
     "topic": "Eventual consistency",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T110",
     "category": "Distributed Systems",
     "topic": "Strong consistency",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T111",
