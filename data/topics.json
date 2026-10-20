@@ -675,13 +675,13 @@
     "id": "T113",
     "category": "Distributed Systems",
     "topic": "Network partitions",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T114",
     "category": "Distributed Systems",
     "topic": "Split brain",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T115",
