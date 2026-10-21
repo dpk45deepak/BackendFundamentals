@@ -687,13 +687,13 @@
     "id": "T115",
     "category": "Distributed Systems",
     "topic": "Clock synchronization",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T116",
     "category": "Distributed Systems",
     "topic": "Gossip protocols",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T117",
