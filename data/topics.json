@@ -723,13 +723,13 @@
     "id": "T121",
     "category": "Backend Security",
     "topic": "JWT",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T122",
     "category": "Backend Security",
     "topic": "Session authentication",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T123",
