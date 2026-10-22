@@ -711,13 +711,13 @@
     "id": "T119",
     "category": "Backend Security",
     "topic": "OAuth 2.0",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T120",
     "category": "Backend Security",
     "topic": "OpenID Connect",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T121",
