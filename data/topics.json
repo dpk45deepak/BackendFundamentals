@@ -747,13 +747,13 @@
     "id": "T125",
     "category": "Backend Security",
     "topic": "API keys",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T126",
     "category": "Backend Security",
     "topic": "Password hashing",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T127",
