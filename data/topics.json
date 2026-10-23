@@ -735,13 +735,13 @@
     "id": "T123",
     "category": "Backend Security",
     "topic": "RBAC",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T124",
     "category": "Backend Security",
     "topic": "ABAC",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T125",
