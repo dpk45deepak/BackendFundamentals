@@ -759,13 +759,13 @@
     "id": "T127",
     "category": "Backend Security",
     "topic": "Argon2 / bcrypt",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T128",
     "category": "Backend Security",
     "topic": "CSRF",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T129",
