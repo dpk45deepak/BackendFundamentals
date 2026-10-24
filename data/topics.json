@@ -771,13 +771,13 @@
     "id": "T129",
     "category": "Backend Security",
     "topic": "XSS",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T130",
     "category": "Backend Security",
     "topic": "SQL injection",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T131",
