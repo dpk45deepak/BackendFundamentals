@@ -783,13 +783,13 @@
     "id": "T131",
     "category": "Backend Security",
     "topic": "NoSQL injection",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T132",
     "category": "Backend Security",
     "topic": "SSRF",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T133",
