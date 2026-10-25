@@ -795,13 +795,13 @@
     "id": "T133",
     "category": "Backend Security",
     "topic": "CORS security",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T134",
     "category": "Backend Security",
     "topic": "Clickjacking",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T135",
