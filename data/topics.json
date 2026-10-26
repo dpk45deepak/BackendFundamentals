@@ -807,13 +807,13 @@
     "id": "T135",
     "category": "Backend Security",
     "topic": "Request validation",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T136",
     "category": "Backend Security",
     "topic": "Input sanitization",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T137",
