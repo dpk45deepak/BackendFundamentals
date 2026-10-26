@@ -819,13 +819,13 @@
     "id": "T137",
     "category": "Backend Security",
     "topic": "Secrets management",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T138",
     "category": "Backend Security",
     "topic": "Encryption at rest",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T139",
