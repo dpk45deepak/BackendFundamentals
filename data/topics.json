@@ -831,13 +831,13 @@
     "id": "T139",
     "category": "Backend Security",
     "topic": "Encryption in transit",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T140",
     "category": "Backend Security",
     "topic": "Key rotation",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T141",
