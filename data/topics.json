@@ -843,13 +843,13 @@
     "id": "T141",
     "category": "Backend Security",
     "topic": "Security headers",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T142",
     "category": "Backend Security",
     "topic": "OWASP Top 10",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T143",
