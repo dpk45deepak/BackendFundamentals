@@ -855,13 +855,13 @@
     "id": "T143",
     "category": "Backend Security",
     "topic": "Authentication vs Authorization",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T144",
     "category": "Reliability Engineering",
     "topic": "Timeouts",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T145",
