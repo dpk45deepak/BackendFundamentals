@@ -867,13 +867,13 @@
     "id": "T145",
     "category": "Reliability Engineering",
     "topic": "Retries",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T146",
     "category": "Reliability Engineering",
     "topic": "Exponential backoff",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T147",
