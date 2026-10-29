@@ -891,13 +891,13 @@
     "id": "T149",
     "category": "Reliability Engineering",
     "topic": "Bulkheads",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T150",
     "category": "Reliability Engineering",
     "topic": "Graceful degradation",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T151",
