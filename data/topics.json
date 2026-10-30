@@ -915,13 +915,13 @@
     "id": "T153",
     "category": "Reliability Engineering",
     "topic": "Liveness probes",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T154",
     "category": "Reliability Engineering",
     "topic": "Readiness probes",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T155",
