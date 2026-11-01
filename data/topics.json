@@ -963,13 +963,13 @@
     "id": "T161",
     "category": "Observability",
     "topic": "Correlation IDs",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T162",
     "category": "Observability",
     "topic": "Centralized logging",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T163",
