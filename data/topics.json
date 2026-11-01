@@ -951,13 +951,13 @@
     "id": "T159",
     "category": "Observability",
     "topic": "Structured logging",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T160",
     "category": "Observability",
     "topic": "Log levels",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T161",
