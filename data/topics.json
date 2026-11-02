@@ -987,13 +987,13 @@
     "id": "T165",
     "category": "Observability",
     "topic": "Request latency",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T166",
     "category": "Observability",
     "topic": "Error rate",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T167",
