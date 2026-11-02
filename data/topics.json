@@ -975,13 +975,13 @@
     "id": "T163",
     "category": "Observability",
     "topic": "CPU metrics",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T164",
     "category": "Observability",
     "topic": "Memory metrics",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T165",
