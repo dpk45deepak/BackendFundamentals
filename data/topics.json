@@ -1011,13 +1011,13 @@
     "id": "T169",
     "category": "Observability",
     "topic": "Distributed tracing",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T170",
     "category": "Observability",
     "topic": "Trace IDs",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T171",
