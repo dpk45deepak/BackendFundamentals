@@ -999,13 +999,13 @@
     "id": "T167",
     "category": "Observability",
     "topic": "Throughput",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T168",
     "category": "Observability",
     "topic": "Queue depth",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T169",
