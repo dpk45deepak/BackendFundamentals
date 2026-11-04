@@ -1023,13 +1023,13 @@
     "id": "T171",
     "category": "Observability",
     "topic": "Span IDs",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T172",
     "category": "Observability",
     "topic": "OpenTelemetry",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T173",
