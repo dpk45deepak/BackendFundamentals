@@ -1035,13 +1035,13 @@
     "id": "T173",
     "category": "Observability",
     "topic": "Prometheus",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T174",
     "category": "Observability",
     "topic": "Grafana",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T175",
