@@ -1059,13 +1059,13 @@
     "id": "T177",
     "category": "Observability",
     "topic": "Tracing one request across multiple services",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T178",
     "category": "DevOps / Infrastructure",
     "topic": "Linux",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T179",
