@@ -1047,13 +1047,13 @@
     "id": "T175",
     "category": "Observability",
     "topic": "Jaeger",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T176",
     "category": "Observability",
     "topic": "ELK / OpenSearch",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T177",
