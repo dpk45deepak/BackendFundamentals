@@ -1179,13 +1179,13 @@
     "id": "T197",
     "category": "DevOps / Infrastructure",
     "topic": "Terraform basics",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T198",
     "category": "Cloud Backend",
     "topic": "AWS EC2",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T199",
