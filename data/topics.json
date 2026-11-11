@@ -1191,13 +1191,13 @@
     "id": "T199",
     "category": "Cloud Backend",
     "topic": "AWS S3",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T200",
     "category": "Cloud Backend",
     "topic": "AWS RDS",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T201",
