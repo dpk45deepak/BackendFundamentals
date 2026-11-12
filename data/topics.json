@@ -1215,13 +1215,13 @@
     "id": "T203",
     "category": "Cloud Backend",
     "topic": "AWS CloudFront",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T204",
     "category": "Cloud Backend",
     "topic": "AWS Route 53",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T205",
