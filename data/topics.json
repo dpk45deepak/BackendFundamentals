@@ -1203,13 +1203,13 @@
     "id": "T201",
     "category": "Cloud Backend",
     "topic": "AWS VPC",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T202",
     "category": "Cloud Backend",
     "topic": "AWS IAM",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T203",
