@@ -1227,13 +1227,13 @@
     "id": "T205",
     "category": "Cloud Backend",
     "topic": "AWS SQS",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T206",
     "category": "Cloud Backend",
     "topic": "AWS SNS",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T207",
