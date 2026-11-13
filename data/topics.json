@@ -1239,13 +1239,13 @@
     "id": "T207",
     "category": "Cloud Backend",
     "topic": "AWS Lambda",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T208",
     "category": "Cloud Backend",
     "topic": "AWS ECS",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T209",
