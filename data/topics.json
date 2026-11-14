@@ -1251,13 +1251,13 @@
     "id": "T209",
     "category": "Cloud Backend",
     "topic": "AWS EKS",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T210",
     "category": "Cloud Backend",
     "topic": "AWS CloudWatch",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T211",
