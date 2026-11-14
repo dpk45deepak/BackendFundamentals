@@ -1263,13 +1263,13 @@
     "id": "T211",
     "category": "Cloud Backend",
     "topic": "AWS Secrets Manager",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T212",
     "category": "Cloud Backend",
     "topic": "Choosing the right AWS service for a backend requirement",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T213",
