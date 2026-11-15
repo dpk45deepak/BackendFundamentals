@@ -1287,13 +1287,13 @@
     "id": "T215",
     "category": "Performance Engineering",
     "topic": "Memory profiling",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T216",
     "category": "Performance Engineering",
     "topic": "Garbage collection",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T217",
