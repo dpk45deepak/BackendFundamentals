@@ -1299,13 +1299,13 @@
     "id": "T217",
     "category": "Performance Engineering",
     "topic": "Memory leaks",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T218",
     "category": "Performance Engineering",
     "topic": "Connection pooling",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T219",
