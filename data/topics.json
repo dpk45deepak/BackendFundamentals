@@ -1311,13 +1311,13 @@
     "id": "T219",
     "category": "Performance Engineering",
     "topic": "Database connection limits",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T220",
     "category": "Performance Engineering",
     "topic": "Query optimization",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T221",
