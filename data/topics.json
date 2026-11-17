@@ -1323,13 +1323,13 @@
     "id": "T221",
     "category": "Performance Engineering",
     "topic": "N+1 problem",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T222",
     "category": "Performance Engineering",
     "topic": "Batch processing",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T223",
