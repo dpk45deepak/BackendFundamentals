@@ -1335,13 +1335,13 @@
     "id": "T223",
     "category": "Performance Engineering",
     "topic": "Async processing",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T224",
     "category": "Performance Engineering",
     "topic": "Worker pools",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T225",
