@@ -1347,13 +1347,13 @@
     "id": "T225",
     "category": "Performance Engineering",
     "topic": "Event loops",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T226",
     "category": "Performance Engineering",
     "topic": "Concurrency",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T227",
