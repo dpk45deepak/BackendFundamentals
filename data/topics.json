@@ -1395,13 +1395,13 @@
     "id": "T233",
     "category": "Performance Engineering",
     "topic": "wrk",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T234",
     "category": "Performance Engineering",
     "topic": "autocannon",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T235",
