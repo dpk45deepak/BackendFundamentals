@@ -1455,13 +1455,13 @@
     "id": "T243",
     "category": "Architecture Patterns",
     "topic": "CQRS",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T244",
     "category": "Architecture Patterns",
     "topic": "Event sourcing",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T245",
