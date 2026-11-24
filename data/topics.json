@@ -1503,13 +1503,13 @@
     "id": "T251",
     "category": "API Architecture",
     "topic": "REST",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T252",
     "category": "API Architecture",
     "topic": "GraphQL",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T253",
