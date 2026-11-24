@@ -1491,13 +1491,13 @@
     "id": "T249",
     "category": "Architecture Patterns",
     "topic": "Factory pattern",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T250",
     "category": "Architecture Patterns",
     "topic": "When not to use microservices",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T251",
