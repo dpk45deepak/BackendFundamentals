@@ -1515,13 +1515,13 @@
     "id": "T253",
     "category": "API Architecture",
     "topic": "gRPC",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T254",
     "category": "API Architecture",
     "topic": "WebSockets",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T255",
