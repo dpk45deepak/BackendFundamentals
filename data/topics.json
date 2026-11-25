@@ -1527,13 +1527,13 @@
     "id": "T255",
     "category": "API Architecture",
     "topic": "SSE",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T256",
     "category": "API Architecture",
     "topic": "Webhooks",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T257",
