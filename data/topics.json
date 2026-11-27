@@ -1575,13 +1575,13 @@
     "id": "T263",
     "category": "Testing",
     "topic": "Unit testing",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T264",
     "category": "Testing",
     "topic": "Integration testing",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T265",
