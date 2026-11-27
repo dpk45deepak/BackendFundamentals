@@ -1563,13 +1563,13 @@
     "id": "T261",
     "category": "API Architecture",
     "topic": "OpenAPI",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T262",
     "category": "API Architecture",
     "topic": "Schema validation",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T263",
