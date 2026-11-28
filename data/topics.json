@@ -1587,13 +1587,13 @@
     "id": "T265",
     "category": "Testing",
     "topic": "E2E testing",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T266",
     "category": "Testing",
     "topic": "Contract testing",
-    "status": "pending"
+    "status": "completed"
   },
   {
     "id": "T267",
